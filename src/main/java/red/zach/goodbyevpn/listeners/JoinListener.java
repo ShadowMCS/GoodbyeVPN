@@ -14,9 +14,6 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.logging.Logger;
 
-/**
- * Created by 18zzwerling on 1/30/17.
- */
 public class JoinListener implements Listener {
 
     StringUtils su = new StringUtils();
