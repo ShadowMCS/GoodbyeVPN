@@ -1,4 +1,4 @@
-#GoodbyeVPN
+# GoodbyeVPN
 
 This is a simple anti-vpn plugin.
 
